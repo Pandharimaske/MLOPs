@@ -11,13 +11,13 @@ log_dir = 'logs'
 os.makedirs(log_dir, exist_ok=True)
 
 # logging configuration
-logger = logging.getLogger('model_building')
+logger = logging.getLogger('model_training')
 logger.setLevel('DEBUG')
 
 console_handler = logging.StreamHandler()
 console_handler.setLevel('DEBUG')
 
-log_file_path = os.path.join(log_dir, 'model_building.log')
+log_file_path = os.path.join(log_dir, 'model_training.log')
 file_handler = logging.FileHandler(log_file_path)
 file_handler.setLevel('DEBUG')
 
@@ -119,8 +119,8 @@ def save_model(model, file_path: str) -> None:
 
 def main():
     try:
-        # params = load_params('params.yaml')['model_building']
-        params = {'n_estimators':25 , 'random_state':2}
+        params = load_params('params.yaml')['model_training']
+        # params = {'n_estimators':25 , 'random_state':2}
         train_data = load_data('./data/processed/train_tfidf.csv')
         X_train = train_data.iloc[:, :-1].values
         y_train = train_data.iloc[:, -1].values
