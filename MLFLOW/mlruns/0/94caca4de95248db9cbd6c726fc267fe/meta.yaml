@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/94caca4de95248db9cbd6c726fc267fe/artifacts
+end_time: 1757703855775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94caca4de95248db9cbd6c726fc267fe
+run_name: fun-sloth-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703855758
+status: 3
+tags: []
+user_id: pandhari

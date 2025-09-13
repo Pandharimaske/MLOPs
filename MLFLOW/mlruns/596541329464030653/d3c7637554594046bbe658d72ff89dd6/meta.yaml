@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/596541329464030653/d3c7637554594046bbe658d72ff89dd6/artifacts
+end_time: 1757753701729
+entry_point_name: ''
+experiment_id: '596541329464030653'
+lifecycle_stage: active
+run_id: d3c7637554594046bbe658d72ff89dd6
+run_name: fortunate-shoat-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757753701435
+status: 3
+tags: []
+user_id: pandhari

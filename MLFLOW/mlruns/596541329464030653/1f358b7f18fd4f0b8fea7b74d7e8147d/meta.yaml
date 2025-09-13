@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/596541329464030653/1f358b7f18fd4f0b8fea7b74d7e8147d/artifacts
+end_time: 1757754187765
+entry_point_name: ''
+experiment_id: '596541329464030653'
+lifecycle_stage: active
+run_id: 1f358b7f18fd4f0b8fea7b74d7e8147d
+run_name: classy-sloth-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754184884
+status: 3
+tags: []
+user_id: pandhari

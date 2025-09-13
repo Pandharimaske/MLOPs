@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/596541329464030653/17a65cc46022438a988af458d9229843/artifacts
+end_time: 1757754132035
+entry_point_name: ''
+experiment_id: '596541329464030653'
+lifecycle_stage: active
+run_id: 17a65cc46022438a988af458d9229843
+run_name: efficient-foal-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754131721
+status: 4
+tags: []
+user_id: pandhari

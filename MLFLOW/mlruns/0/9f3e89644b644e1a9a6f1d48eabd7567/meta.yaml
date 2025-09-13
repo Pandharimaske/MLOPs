@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f3e89644b644e1a9a6f1d48eabd7567/artifacts
+end_time: 1757753253799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f3e89644b644e1a9a6f1d48eabd7567
+run_name: auspicious-bear-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757753253471
+status: 4
+tags: []
+user_id: pandhari

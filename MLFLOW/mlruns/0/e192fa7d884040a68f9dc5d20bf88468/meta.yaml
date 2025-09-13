@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e192fa7d884040a68f9dc5d20bf88468/artifacts
+end_time: 1757752885582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e192fa7d884040a68f9dc5d20bf88468
+run_name: thundering-trout-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757752884652
+status: 4
+tags: []
+user_id: pandhari

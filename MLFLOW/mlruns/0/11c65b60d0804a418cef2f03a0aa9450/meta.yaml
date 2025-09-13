@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/11c65b60d0804a418cef2f03a0aa9450/artifacts
+end_time: 1757752920925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11c65b60d0804a418cef2f03a0aa9450
+run_name: abrasive-bass-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757752920744
+status: 4
+tags: []
+user_id: pandhari

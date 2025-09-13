@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5b7df5a2784e47d9b98beda8f75ef4ac/artifacts
+end_time: 1757753310338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b7df5a2784e47d9b98beda8f75ef4ac
+run_name: indecisive-fish-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757753310087
+status: 3
+tags: []
+user_id: pandhari
