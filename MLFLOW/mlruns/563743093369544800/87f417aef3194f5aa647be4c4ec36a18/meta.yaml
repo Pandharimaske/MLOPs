@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pandhari/Desktop/MLOPs/MLFLOW/mlruns/563743093369544800/87f417aef3194f5aa647be4c4ec36a18/artifacts
+end_time: 1757756667880
+entry_point_name: ''
+experiment_id: '563743093369544800'
+lifecycle_stage: active
+run_id: 87f417aef3194f5aa647be4c4ec36a18
+run_name: aged-bear-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757756667873
+status: 3
+tags: []
+user_id: pandhari

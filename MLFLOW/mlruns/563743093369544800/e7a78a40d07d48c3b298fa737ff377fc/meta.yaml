@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pandhari/Desktop/MLOPs/MLFLOW/mlruns/563743093369544800/e7a78a40d07d48c3b298fa737ff377fc/artifacts
+end_time: 1757756667911
+entry_point_name: ''
+experiment_id: '563743093369544800'
+lifecycle_stage: active
+run_id: e7a78a40d07d48c3b298fa737ff377fc
+run_name: persistent-finch-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757756667903
+status: 3
+tags: []
+user_id: pandhari

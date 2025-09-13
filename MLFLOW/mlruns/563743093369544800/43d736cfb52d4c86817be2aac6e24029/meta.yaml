@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pandhari/Desktop/MLOPs/MLFLOW/mlruns/563743093369544800/43d736cfb52d4c86817be2aac6e24029/artifacts
+end_time: 1757756670128
+entry_point_name: ''
+experiment_id: '563743093369544800'
+lifecycle_stage: active
+run_id: 43d736cfb52d4c86817be2aac6e24029
+run_name: fun-shad-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757756664236
+status: 3
+tags: []
+user_id: pandhari

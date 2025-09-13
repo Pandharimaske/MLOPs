@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pandhari/Desktop/MLOPs/MLFLOW/mlruns/563743093369544800/99b4c2b65ec14b32a1fae00547f6ae09/artifacts
+end_time: 1757756667840
+entry_point_name: ''
+experiment_id: '563743093369544800'
+lifecycle_stage: active
+run_id: 99b4c2b65ec14b32a1fae00547f6ae09
+run_name: zealous-trout-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757756667833
+status: 3
+tags: []
+user_id: pandhari

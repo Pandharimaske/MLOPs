@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pandhari/Desktop/MLOPs/MLFLOW/mlruns/563743093369544800/f950d089f4fe4aa5b184d5b6f30985ae/artifacts
+end_time: 1757756667848
+entry_point_name: ''
+experiment_id: '563743093369544800'
+lifecycle_stage: active
+run_id: f950d089f4fe4aa5b184d5b6f30985ae
+run_name: welcoming-swan-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757756667841
+status: 3
+tags: []
+user_id: pandhari

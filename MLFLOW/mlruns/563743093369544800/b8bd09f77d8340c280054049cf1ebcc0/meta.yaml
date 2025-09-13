@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pandhari/Desktop/MLOPs/MLFLOW/mlruns/563743093369544800/b8bd09f77d8340c280054049cf1ebcc0/artifacts
+end_time: 1757756667872
+entry_point_name: ''
+experiment_id: '563743093369544800'
+lifecycle_stage: active
+run_id: b8bd09f77d8340c280054049cf1ebcc0
+run_name: silent-sheep-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757756667865
+status: 3
+tags: []
+user_id: pandhari

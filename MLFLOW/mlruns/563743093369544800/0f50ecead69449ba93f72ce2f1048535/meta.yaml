@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pandhari/Desktop/MLOPs/MLFLOW/mlruns/563743093369544800/0f50ecead69449ba93f72ce2f1048535/artifacts
+end_time: 1757756667832
+entry_point_name: ''
+experiment_id: '563743093369544800'
+lifecycle_stage: active
+run_id: 0f50ecead69449ba93f72ce2f1048535
+run_name: burly-stork-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757756667826
+status: 3
+tags: []
+user_id: pandhari
