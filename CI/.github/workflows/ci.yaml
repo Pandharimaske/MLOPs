@@ -32,4 +32,4 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest MLOPS/CI/_test.py
+        pytest CI/_test.py
